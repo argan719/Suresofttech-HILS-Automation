@@ -1,6 +1,6 @@
 ### HILS 검증/HILS TC 신호 및 속성 탐색 자동화 도구
  <br>
- HILS 검증 시 Common 파일에 존재하지 않는 신호 및 속성 명을 찾아<br> 해당 Specmgmt 정보를 엑셀 파일로 생성해 주는 Python 자동화 도구를 개발하여,<br>기존 사이클 3회를 0회로 절감, 90퍼센트 이상 시간 단축 효과. <br>
+ HILS 검증 시 Common 파일에 존재하지 않는 신호 및 속성 명을 찾아,<br> 해당 Specmgmt 정보를 엑셀 파일로 생성해 주는 Python 자동화 도구를 개발하여<br>기존 사이클 3회를 0회로 절감, 90퍼센트 이상 시간 단축 효과. <br>
  <br>
  1. TestCase 내 Variable (또는 Quantity)을 전부 추출한다. <br>
  2. CommonVariable.cs (또는 CommonQuantity) 내에 해당 신호 및 속성이 존재하는지 확인한다. <br>
