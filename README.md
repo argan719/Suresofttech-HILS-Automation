@@ -11,5 +11,5 @@
 위 과정을 자동화하여 프로그램 실행 시 최종 결과물인 엑셀 파일이 생성되는 프로그램 개발하였음.
 <br>
 <br> <br>
-HILS 검증 진행 시 CommonVariable.cs, CommonQuantity.cs 파일에 TestCase에 사용되는 모든 신호, 속성값이 선언되어 있어야만 HILS 장비에서 검증이 가능함. <br>
+HILS 검증 진행 시 CommonVariable.cs, CommonQuantity.cs 파일에 TestCase에서 사용되는 모든 신호, 속성값이 선언되어 있어야만 HILS 장비에서 검증이 가능함. <br>
 작업자(고객사)가 검증을 진행하며 일일이 채워넣는 방식이다 보니 슈어에서 검증 시 선언되어 있지 않은 신호, 속성이 대부분이라 전부 취합해 검증자에게 정보를 전달해야 검증이 가능했음. 
